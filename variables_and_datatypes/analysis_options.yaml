@@ -18,6 +18,12 @@ include: package:lints/recommended.yaml
 # linter:
 #   rules:
 #     - camel_case_types
+#     - constant_identifier_names
+#     - non_constant_identifier_names
+#     - always_specify_types
+#     - prefer_final_locals
+#     - prefer_const_constructors
+#     - prefer_interpolation_to_compose_strings 
 
 # analyzer:
 #   exclude:
