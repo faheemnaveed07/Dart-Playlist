@@ -3,9 +3,8 @@ void main(List<String> args) {
 
   ///constants cannot be assigned to a non-constant value
   ///so this is an invalid operation
-  const myAge =
-      yourAge; // This will cause an error because 'yourAge' is not a compile-time constant
-  print(myAge);
+  // const myAge = yourAge; /// This will cause an error because 'yourAge' is not a compile-time constant
+  //print(myAge);
 }
 
 
